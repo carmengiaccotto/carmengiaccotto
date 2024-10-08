@@ -1,4 +1,4 @@
-### Hi there! I'm Carmen 👩🏼‍💻 
+### Hi there! I'm Carmen 👩🏻‍💻 
 
 I'm a student in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it). 
 
