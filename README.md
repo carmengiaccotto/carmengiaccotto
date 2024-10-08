@@ -18,12 +18,7 @@ I'm a student in Computer Science and Engineering at [Politecnico di Milano](htt
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmengiaccotto&theme=react&line_height=40&hide=css"/>
     </a>
-</div>
-
-</br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=carmengiaccotto&&style=flat-square&color=040720" align="center" style="width: 20%"/>
-</div>  
+</div> 
 
 &nbsp;
 
