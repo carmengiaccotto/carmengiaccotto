@@ -1,11 +1,6 @@
-### Hi there! I'm Carmen 👩🏻‍💻 
+### Hi there! I'm Carmen
 
 I'm a student in Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it). 
-
-🌱 I’m currently learning more about data science, machine learning and deep learning. 
-
-📫 How to reach me: carmengiaccotto@gmail.com
-
 
 &nbsp;
 
@@ -21,6 +16,4 @@ I'm a student in Computer Science and Engineering at [Politecnico di Milano](htt
 </div> 
 
 &nbsp;
-
-**Contact me** on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carmengiaccotto/)
 
